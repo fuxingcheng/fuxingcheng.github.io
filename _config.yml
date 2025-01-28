@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qingyun Sun"
-description              : "Assistant Professor, Beihang University"
-repository               : "sunqyqy/sunqysqy.github.io"
+title                    : "Xingcheng Fu"
+description              : "Assistant Professor, Guangxi Normal University"
+repository               : "xingchengfu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qingyun Sun"
-  avatar           : "images/sqy.jpg"
-  bio              : "孙庆赟"
-  location         : "Beijing, China"
+  name             : "Xingcheng Fu"
+  avatar           : "images/fxc.jpg"
+  bio              : "傅星珵"
+  location         : "Guilin, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=e2oYBzUAAAAJ"
-  email            : "sunqy@buaa.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=gN4tbgMAAAAJ"
+  email            : "fuxc@gxnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : https://dblp.org/pid/236/7003.html
+  orcid            : https://orcid.org/0000-0002-4643-8126
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
