@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently an assistant professor in the School of Computer Science and Engineering at Beihang University (BUAA). Before that, I received my Ph.D. degree from Beihang University, under the supervision of Prof. Jianxin Li. Further before, I obtained the B.S. degree from Xidian University.
+I’m currently an assistant professor in the School of Computer Science and Engineering at Guangxi Normal University. Before that, I received my Ph.D. degree from Beihang University(BUAA), under the supervision of Prof. Jianxin Li. 
 
-My research interests include Data Mining, Deep Graph Learning and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together. 
+My research interests include AI4Science, AI4Education, Geometric Deep Learning and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together. 
 
 **[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any). 
 
@@ -29,15 +29,8 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - *2024.12* &nbsp;🎉 **Five** papers are accepted by **AAAI 2025** 
 - *2024.10* &nbsp;🎉 **One** paper is accepted by **WSDM 2025**
 - *2024.09* &nbsp;🎉 **One** paper is accepted by **NeurIPS 2024**
-- *2024.08* &nbsp;🏆 Our paper has been awarded **CCF Bigdata 2024 Best Paper Award** 
-- *2024.08* &nbsp;🎉 **One** paper is accepted by **Science China Information Science**
-- *2024.07* &nbsp;🎉 **One** paper is accepted by **MM 2024**
-- *2024.07* &nbsp;🎉 **One** paper is accepted by **CIKM 2024**
-- *2024.06* &nbsp;🎉 **One** paper is accepted by **IJCAI 2024 GAAMAL**
-- *2024.05* &nbsp;🏆 I was grateful to be awared **"Most Popular Speaker of the Year"** at the Techbeat.net
 - *2024.05* &nbsp;🎉 **One** paper is accepted by **ICML 2024**
 - *2024.05* &nbsp;🌟 We host a challenge **Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking** in **IEEE BigData Cup 2024**
-- *2024.02* &nbsp;🎉 **One** paper is accepted by **COLING 2024**
 - *2024.01* &nbsp;🎉 **One** paper is accepted by **WWW 2024**
 
 # 📝 Publications 
