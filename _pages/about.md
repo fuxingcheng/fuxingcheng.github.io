@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently an assistant professor in the School of Computer Science and Engineering at Guangxi Normal University. Before that, I received my Ph.D. degree from Beihang University(BUAA), under the supervision of Prof. Jianxin Li. 
+I’m currently an assistant professor in the School of Computer Science and Engineering / School of Software / School of Artificial Intelligence at Guangxi Normal University. Before that, I received my Ph.D. degree from Beihang University(BUAA), under the supervision of Prof. Jianxin Li. 
 
 My research interests include AI4Science, AI4Education, Geometric Deep Learning and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together. 
 
