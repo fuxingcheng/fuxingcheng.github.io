@@ -24,6 +24,7 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 **[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any). 
 
 # 🔥 News
+- *2025.04* &nbsp;🎉 **One** paper is accepted by **ICML 2025**
 - *2025.04* &nbsp;🎉 Our **toturial** has been accepted accepted by **IJCAI 2025**
 - *2025.04* &nbsp;🎉 **Four** papers are accepted by **IJCAI 2025**
 - *2025.04* &nbsp;🎉 **One** papers are accepted by **CVPR 2025**, and have been selected to be presented as a **highlight**.
@@ -40,6 +41,11 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 \* denotes equal contribution and \# denotes corresponding author
 
 **2025:**
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2025</span> [How Much Can Transfer? BRIDGE: Bounded Multi-Domain Graph Foundation Model with Generalization Guarantees](https://openreview.net/pdf?id=bjDKZ3Roax). Haonan Yuan, Qingyun Sun#, Junhua Shi, **Xingcheng Fu**, Bryan Hooi, Jianxin Li, Philip S. Yu
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> OS-GCL: A One-Shot Learner in Graph Contrastive Learning. Cheng Ji, Chenrui He, Qian Li, Qingyun Sun, **Xingcheng Fu**, Jianxin Li 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks. Yumeng Wang, Zengyi Wo, Wenjun Wang, **Xingcheng Fu**, Minglai Shao#
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning. Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, **Xingcheng Fu#**, Minglai Shao, Li-e Wang, Chunming Hu, Xianxian Li 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> [An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks](https://arxiv.org/pdf/2505.20074). Jinyan Wang, Liu Yang, Yuecen Wei#, Jiaxuan Si, Chenhao Guo, Qingyun Sun, **Xingcheng Fu#**, Xianxian Li 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">CVPR 2025</span>  <span style="color:red">(Highlight)</span> [Galaxy Walker: Geometry-aware VLMs For Galaxy-scale Understanding](https://arxiv.org/pdf/2503.18578v1). Tianyu Chen, **Xingcheng Fu**, Yisen Gao, Haodong Qian, Yuecen Wei, Kun Yan, Haoyi Zhou, Jianxin Li\#
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2025</span>  <span style="color:red">(Spotlight)</span> [IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning](https://arxiv.org/pdf/2406.09870). Jiawen Qin\*, Haonan Yuan\*, Qingyun Sun\*, Lyujin Xu, Jiaqi Yuan, Pengfeng Huang, Zhaonan Wang, **Xingcheng Fu**, Hao Peng, Jianxin Li, Philip S. Yu  
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2025</span>  [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/pdf?id=wYWJFLQov9), Jiayi Luo, Qingyun Sun#, Haonan Yuan, **Xingcheng Fu**, Jianxin Li 
