@@ -24,7 +24,7 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 **[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any). 
 
 # 🔥 News
-- *2025.04* &nbsp;🎉 **Four** paper is accepted by **NeurIPS 2025**
+- *2025.09* &nbsp;🎉 **Four** paper is accepted by **NeurIPS 2025**
 - *2025.04* &nbsp;🎉 **One** paper is accepted by **ICML 2025**
 - *2025.04* &nbsp;🎉 Our **toturial** has been accepted accepted by **IJCAI 2025**
 - *2025.04* &nbsp;🎉 **Four** papers are accepted by **IJCAI 2025**
