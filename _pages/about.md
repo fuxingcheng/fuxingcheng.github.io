@@ -24,7 +24,9 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 **[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any). 
 
 # 🔥 News
+- *2025.11* &nbsp;🎉 **One** paper is accepted by **KDD 2026**
 - *2025.11* &nbsp;🎉 **Five** paper is accepted by **AAAI 2026**
+- *2025.10* &nbsp;🎉 **One** paper is accepted by **IEEE TPAMI**
 - *2025.09* &nbsp;🎉 **Four** paper is accepted by **NeurIPS 2025**
 - *2025.04* &nbsp;🎉 **One** paper is accepted by **ICML 2025**
 - *2025.04* &nbsp;🎉 Our **toturial** has been accepted accepted by **IJCAI 2025**
@@ -42,12 +44,16 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 # 📝 Publications 
 \* denotes equal contribution and \# denotes corresponding author
 
-**2025:**
+**2026:**
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KDD 2026</span> Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective. Yuecen Wei, Liu Yang, Beining Yang, Qingyun Sun, Hao Peng, Tianyu Wo, Chunming Hu, **Xingcheng Fu**. 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space. **Xingcheng Fu**, Shengpeng Wang, Yisen Gao, Dongran Yu\#, Chunpei Li, Qingyun Sun, Xianxian LI
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> <span style="color:red">(Oral)</span> Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks. Jiayi Luo, Qingyun Sun, Yuecen Wei, Haonan Yuan, **Xingcheng Fu**, Jianxin Li
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> SA²GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation. **Xingcheng Fu**, Junhua Shi, Qingyun Sun, Haonan Yuan, **Xingcheng Fu**
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> <span style="color:red">(Oral)</span> Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning. Yi Huang, Qingyun Sun, Yisen Gao, Haonan Yuan, **Xingcheng Fu**, Jianxin Li
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models. Jiayi Luo, Qingyun Sun, Lingjuan Lyu, Ziwei Zhang, Haonan Yuan, **Xingcheng Fu**, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IEEE TPAMI 2026</span> Evolving Graph Learning for Out-of-Distribution Generalization in Non-stationary Environments. Qingyun Sun, Jiayi Luo, Haonan Yuan, **Xingcheng Fu**, Hao Peng, Jianxin Li and Philip S. Yu
+
+**2025:**
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> Toward a Unified Geometry Understanding: Riemannian Diffusion Framework for Graph Generation and Prediction. Yisen Gao, **Xingcheng Fu\#**, Qingyun Sun, Jianxin Li, Xianxian Li
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> <span style="color:red">(Spotlight)</span> Robust Graph Condensation via Classification Complexity Mitigation. Jiayi Luo, Qingyun Sun, Beining Yang, Haonan Yuan, **Xingcheng Fu**, Yanbiao Ma, Jianxin Li, Philip S. Yu
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning, Haonan Yuan, Qingyun Sun, Junhua Shi, **Xingcheng Fu**, Bryan Hooi, Jianxin Li, Philip S. Yu
