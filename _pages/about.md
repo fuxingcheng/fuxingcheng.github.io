@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently an assistant professor in the School of Computer Science and Engineering / School of Software / School of Artificial Intelligence at Guangxi Normal University. Before that, I received my Ph.D. degree from Beihang University(BUAA), under the supervision of Prof. Jianxin Li. 
+I’m currently an associate professor in the School of Computer Science and Engineering / School of Software / School of Artificial Intelligence at Guangxi Normal University. Before that, I received my Ph.D. degree from Beihang University(BUAA), under the supervision of Prof. Jianxin Li. 
 
 My research interests include AI4Science, AI4Education, Geometric Deep Learning and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together. 
 
@@ -28,8 +28,10 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 - *2025.11* &nbsp;🎉 **Five** paper is accepted by **AAAI 2026**
 - *2025.10* &nbsp;🎉 **One** paper is accepted by **IEEE TPAMI**
 - *2025.09* &nbsp;🎉 **Four** paper is accepted by **NeurIPS 2025**
+- *2025.07*  🌟 We will organize a workshop regarding [Frontiers in Graph Machine Learning for the Large Model Era](magic-group-buaa.github.io/CIKM2025_workshop/) in **CIKM 2025**. See you in Seoul!
+- *2025.05*  🌟 We will give a tutorial regarding [Towards Low-Distortion Graph Representation Learning](https://magic-group-buaa.github.io/IJCAI25_tutorial/) at **IJCAI 2025**. See you in Guangzhou!
+- *2025.05*  🌟 We host a challenge  [Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking](https://magic-group-buaa.github.io/IJCAI25/index.html) at **IJCAI 2025**. Welcome to join!
 - *2025.04* &nbsp;🎉 **One** paper is accepted by **ICML 2025**
-- *2025.04* &nbsp;🎉 Our **toturial** has been accepted accepted by **IJCAI 2025**
 - *2025.04* &nbsp;🎉 **Four** papers are accepted by **IJCAI 2025**
 - *2025.04* &nbsp;🎉 **One** papers are accepted by **CVPR 2025**, and have been selected to be presented as a **highlight**.
 - *2025.01* &nbsp;🎉 **Two** papers are accepted by **ICLR 2025**  
