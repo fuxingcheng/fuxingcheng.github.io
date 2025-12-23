@@ -138,6 +138,11 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 
 
 # 💻 Service
+**Area Chair:**
+   - ICML 2026
+   - ICLR 2025
+   - EMNLP 2025
+
 **Conference Reviewer:**
    - NeurIPS 2023/2024
    - ICLR 2023/2024/2025
