@@ -24,6 +24,7 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 **[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any). 
 
 # 🔥 News
+- *2026.01* &nbsp;🎉 **Four** paper is accepted by **WWW 2026**
 - *2025.11* &nbsp;🎉 **One** paper is accepted by **KDD 2026**
 - *2025.11* &nbsp;🎉 **Five** paper is accepted by **AAAI 2026**
 - *2025.10* &nbsp;🎉 **One** paper is accepted by **IEEE TPAMI**
@@ -47,6 +48,10 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 \* denotes equal contribution and \# denotes corresponding author
 
 **2026:**
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Graph Diffusion Evolution Model for Multi-Conditional Molecular Generation. **Xingcheng Fu**, Lingyun Liu, Yisen Gao, Tianyu Chen, Qingyun Sun\#, Jianxin Li and Xianxian Li.
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Towards Geometry-Consistent Federated Graph Learning. Yuecen Wei, Zhiyu Zhuang, Yisen Gao, **Xingcheng Fu\#**, Qingyun Sun, Ziwei Zhang, Tianyu Wo and Chunming Hu.
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model. Yisen Gao, Jiaxin Bai, Yi Huang, **Xingcheng Fu**, Qingyun Sun and Yangqiu Song\#.
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> 	RAG²FM: Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation. Haonan Yuan, Qingyun Sun, Jiacheng Tao, **Xingcheng Fu** and Jianxin Li\#. 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KDD 2026</span> Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective. Yuecen Wei, Liu Yang, Beining Yang, Qingyun Sun, Hao Peng, Tianyu Wo, Chunming Hu, **Xingcheng Fu**. 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space. **Xingcheng Fu**, Shengpeng Wang, Yisen Gao, Dongran Yu\#, Chunpei Li, Qingyun Sun, Xianxian LI
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> <span style="color:red">(Oral)</span> Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks. Jiayi Luo, Qingyun Sun, Yuecen Wei, Haonan Yuan, **Xingcheng Fu**, Jianxin Li
