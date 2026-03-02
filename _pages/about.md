@@ -25,6 +25,7 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 
 # 🔥 News
 - *2026.01* &nbsp;🎉 **One** paper is accepted by **ICLR 2026**
+- *2026.01* &nbsp;🎉 **One** paper is accepted by **KBS**
 - *2026.01* &nbsp;🎉 **Four** paper is accepted by **WWW 2026**
 - *2025.11* &nbsp;🎉 **One** paper is accepted by **KDD 2026**
 - *2025.11* &nbsp;🎉 **Five** paper is accepted by **AAAI 2026**
@@ -49,7 +50,8 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 \* denotes equal contribution and \# denotes corresponding author
 
 **2026:**
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2026</span>  [Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs.](https://arxiv.org/pdf/2505.20948) Yisen Gao, Jiaxin Bai, Tianshi Zheng, Ziwei Zhang, **Qingyun Sun**, Xingcheng Fu, Jianxin Li, Yangqiu Song
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2026</span> [Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs.](https://arxiv.org/pdf/2505.20948) Yisen Gao, Jiaxin Bai, Tianshi Zheng, Ziwei Zhang, **Qingyun Sun**, Xingcheng Fu, Jianxin Li, Yangqiu Song
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KBS 2026</span> [Rethinking heterophilic graph learning via graph curvature.](https://doi.org/10.1016/j.knosys.2026.115409) Jian Wang, **Xingcheng Fu**, Qingyun Sun, Li-E Wang, Hao Peng, Jiting Li*, Xianxian Li, Minglai Shao..
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Graph Diffusion Evolution Model for Multi-Conditional Molecular Generation. **Xingcheng Fu**, Lingyun Liu, Yisen Gao, Tianyu Chen, Qingyun Sun\#, Jianxin Li and Xianxian Li.
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Towards Geometry-Consistent Federated Graph Learning. Yuecen Wei, Zhiyu Zhuang, Yisen Gao, **Xingcheng Fu\#**, Qingyun Sun, Ziwei Zhang, Tianyu Wo and Chunming Hu.
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> [Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model.](https://arxiv.org/pdf/2510.11462) Yisen Gao, Jiaxin Bai, Yi Huang, **Xingcheng Fu**, Qingyun Sun and Yangqiu Song\#.
@@ -102,7 +104,8 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 
 **Before 2022:**
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2022</span> [Graph Structure Learning with Variational Information Bottleneck](https://arxiv.org/pdf/2301.12104). Qingyun Sun, Jianxin Li, Hao Peng, Jia Wu, **Xingcheng Fu**, Cheng Ji, Philip S. Yu  
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2022</span> [Curvature Graph Generative Adversarial Networks](https://arxiv.org/pdf/2203.01604). Jianxin Li, **Xingcheng Fu**, Qingyun Sun, Cheng Ji, Jiajun Tan, Jia Wu, Hao Peng  
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2022</span> [Curvature Graph Generative Adversarial Networks](https://arxiv.org/pdf/2203.01604). Jianxin Li, **Xingcheng Fu**, Qingyun Sun, Cheng Ji, Jiajun Tan, Jia Wu, Hao Peng
+- <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">ECAI 2022</span> POINE²: Improving Poincaré Embeddings for Hierarchy-Aware Complex Query Reasoning over Knowledge Graphs. Junnan Liu, Qianren Mao, Jianxin Li#, **Xingcheng Fu**, Zheng Wang.
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">CIKM 2022</span> <span style="color:red">(Best Paper Honorable Mention Award)</span> [Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing](https://arxiv.org/pdf/2301.12104). Qingyun Sun, Jianxin Li, Haonan Yuan, **Xingcheng Fu**, Hao Peng, Cheng Ji, Qian Li, Philip S. Yu 
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">ICDM 2022</span> [Heterogeneous Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2210.00538). Yuecen Wei, **Xingcheng Fu**, Qingyun Sun, Hao Peng, Jia Wu, Jinyan Wang, Xianxian Li 
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">ICDM 2021</span> <span style="color:red">(Best Paper Candidate)</span> [ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network](https://arxiv.org/pdf/2211.08168). **Xingcheng Fu**, Jianxin Li, Jia Wu, Qingyun Sun, Cheng Ji, Senzhang Wang, Jiajun Tan, Hao Peng, Philip S. Yu 
