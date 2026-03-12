@@ -154,31 +154,26 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
    - EMNLP 2025
 
 **Conference Reviewer:**
-   - NeurIPS 2023/2024
+   - NeurIPS 2023/2024/2025
    - ICLR 2023/2024/2025
    - ICML 2024/2025
-   - AAAI 2022/2023/2024/2025
-   - IJCAI 2024/2025
-   - WWW 2021/2022/2024/2025
-   - KDD 2021/2022/2024/2025
-   - ICDM 2023
-   - DASFFA 2024
-   - ICASSP 2024/2025
-   - AISTATS 2025 
+   - AAAI 2022/2023/2024/2025/2026
+   - IJCAI 2024/2025/2026
+   - WWW 2021/2022/2024/2025/2026
+   - KDD 2021/2022/2024/2025/2026
+
 
 **Journal Reviewer:**
    - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
    - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+   - International Journal of Computer Vision (IJCV)
    - ACM Transactions on Information Systems (TOIS)
    - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
    - ACM Transactions on the Web (TWEB)
-   - IEEE Transactions on Multimedia (TMM)
-   - IEEE Transactions on Cybernetics (TCYB)
    - Pattern Recognition (PR)
    - Neural Networks (NN)
    - International Journal of Machine Learning and Cybernetics (JMLC)
-   - Journal of Computer Science and Technology (JCST)
-   - Journal of Social Computing (JSC)
+
 
 # 👩‍🎓 Students
 - Y. Wei&nbsp;(2021-now, master at Guangxi Normal University → Ph.D. at Beihang University)
