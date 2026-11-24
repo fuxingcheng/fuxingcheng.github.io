@@ -24,6 +24,9 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 **[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any). 
 
 # 🔥 News
+- *2026.08*&nbsp;🎉 **One** paper is accepted by **ICDM 2026**
+- *2026.07*&nbsp;🎉 Our survey  on **Foundation Models for Structured Data** paper is accepted by **IEEE TKDE**
+- *2026.02*&nbsp;🌟 We will organize the [2nd Workshop on Frontiers in Graph Machine Learning for the Large Model Era](magic-group-buaa.github.io/CIKM2025_workshop/) in **KDD 2026**. See you in Jeju!
 - *2026.01* &nbsp;🎉 **One** paper is accepted by **ICLR 2026**
 - *2026.01* &nbsp;🎉 **One** paper is accepted by **KBS**
 - *2026.01* &nbsp;🎉 **Four** paper is accepted by **WWW 2026**
@@ -50,6 +53,9 @@ My research interests include AI4Science, AI4Education, Geometric Deep Learning 
 \* denotes equal contribution and \# denotes corresponding author
 
 **2026:**
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey](https://d197for5662m48.cloudfront.net/documents/publicationstatus/300575/preprint_pdf/59dec1534ff3eef424492c2a68582ce4.pdf). Qingyun Sun, Yi Huang, Haonan Yuan, **Xingcheng Fu**, Yisen Gao, Jia Wu, Shujian Yu, Angsheng Li, Jianxin Li, Philip S Yu
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [CRITIC-R1: Learning Structured Critics for Retrieval-Augmented Generation](https://arxiv.org/pdf/2605.29886). Wenhan Xiao, Ziwei Zhang, Chuanyue Yu, **Xingcheng Fu**, Qingyun Sun, Runhua Xu, Jianxin Li
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](https://arxiv.org/pdf/2507.13396?). Qingyun Sun, Jiaqi Yuan, Shan He, Xiao Guan, Haonan Yuan, **Xingcheng Fu**, Jianxin Li, Philip S Yu
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2026</span> [Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs.](https://arxiv.org/pdf/2505.20948) Yisen Gao, Jiaxin Bai, Tianshi Zheng, Ziwei Zhang, **Qingyun Sun**, Xingcheng Fu, Jianxin Li, Yangqiu Song
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KBS 2026</span> [Rethinking heterophilic graph learning via graph curvature.](https://doi.org/10.1016/j.knosys.2026.115409) Jian Wang, **Xingcheng Fu**, Qingyun Sun, Li-E Wang, Hao Peng, Jiting Li*, Xianxian Li, Minglai Shao..
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Graph Diffusion Evolution Model for Multi-Conditional Molecular Generation. **Xingcheng Fu**, Lingyun Liu, Yisen Gao, Tianyu Chen, Qingyun Sun\#, Jianxin Li and Xianxian Li.
